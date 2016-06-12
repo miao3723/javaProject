@@ -1,0 +1,750 @@
+body {
+	background: none !important;
+}
+#wrapper {
+	background: none !important;
+}
+#modMultitab .tabListing {
+	background: none !important;
+}
+.jsEnabled #modMultitab .tabListing h2 {
+	background: none !important;
+}
+body {
+	font-family: "trebuchet ms" !important; font-size: 70%;
+}
+#navigation .modContact h3 {
+	display: inline;
+}
+#navigation #ways-to-give h3 {
+	display: block !important;
+}
+a {
+	color: rgb(0, 0, 0); text-decoration: none !important;
+}
+#content a:link::after {
+	content: " (" attr(href) ") ";
+}
+#content a:visited::after {
+	content: " (" attr(href) ") ";
+}
+#extra a:link::after {
+	content: " (" attr(href) ") ";
+}
+#extra a:visited::after {
+	content: " (" attr(href) ") ";
+}
+#content #breadcrumbs a:link::after {
+	content: none !important;
+}
+#content #breadcrumbs a:visited::after {
+	content: none !important;
+}
+#content table a:link::after {
+	content: none !important;
+}
+#content table a:visited::after {
+	content: none !important;
+}
+#header {
+	text-align: center; font-size: 150%; font-weight: bold;
+}
+#emergency {
+	font-size: 120%; font-weight: bold;
+}
+#content .dept-name {
+	font-size: 120%; font-weight: bold;
+}
+#content .acad-name {
+	font-size: 120%; font-weight: bold;
+}
+.modSideButton span {
+	font-size: 110%; font-weight: bold;
+}
+.col {
+	float: none;
+}
+.alt {
+	float: none;
+}
+#content fieldset label {
+	float: none;
+}
+#modMultitab {
+	position: relative !important;
+}
+#modMultitab .tabListing {
+	position: relative !important;
+}
+.jsEnabled #modMultitab .tabListing {
+	position: relative !important;
+}
+#modMultitab .tabListing ul {
+	position: relative !important;
+}
+.jsEnabled #modMultitab .tabListing .jScrollPaneContainer {
+	position: relative !important;
+}
+.jsEnabled #modMultitab .tabListing .jScrollPaneContainer ul {
+	position: relative !important;
+}
+.jsEnabled #modMultitab .tabListing h2 {
+	position: relative !important;
+}
+#modMultitab .tabListing ul {
+	height: auto !important; overflow: visible !important;
+}
+.jsEnabled #modMultitab .tabListing .jScrollPaneContainer {
+	height: auto !important; overflow: visible !important;
+}
+.jsEnabled #modMultitab .tabListing .jScrollPaneContainer ul {
+	height: auto !important; overflow: visible !important;
+}
+body.admissions .callout .border {
+	height: auto !important; overflow: visible !important;
+}
+.jsEnabled #modMultitab .tabListing {
+	border-top-color: currentColor; border-top-width: medium; border-top-style: none;
+}
+#modMultitab h2.tab {
+	color: rgb(0, 0, 0); border-bottom-color: rgb(102, 102, 102) !important; border-bottom-width: 1px !important; border-bottom-style: solid !important;
+}
+.jsEnabled #modMultitab h2.tab {
+	top: auto;
+}
+#modMultitab li {
+	padding-bottom: 10px; border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none;
+}
+#modMultitab span.date {
+	font-weight: bold;
+}
+#modMultitab .jScrollPaneContainer {
+	overflow: auto;
+}
+.wpi-topics {
+	margin-top: 20px;
+}
+.wpi-topics h3 {
+	margin: 0px !important; padding: 0px !important;
+}
+.wpi-topics p {
+	margin: 0px !important; padding: 0px !important;
+}
+p#footer {
+	text-align: center; font-size: 85%; margin-top: 30px;
+}
+#content {
+	padding-bottom: 25px; border-bottom-color: rgb(0, 0, 0); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#content {
+	margin-bottom: 25px;
+}
+#extra {
+	margin-bottom: 25px;
+}
+#content h1 {
+	font-size: 150%;
+}
+body.admissionsHome h1 {
+	font-size: 150%;
+}
+#content h2 {
+	font-size: 120%;
+}
+.mediaPicker h4 {
+	font-size: 120%;
+}
+#content h3 {
+	font-size: 110%;
+}
+.mediaPicker h3 {
+	font-size: 110%;
+}
+#content li li {
+	font-size: 100%;
+}
+#listing ul ul {
+	font-size: 100%;
+}
+.modCallout h3 {
+	font-size: 100%;
+}
+#dual-profile h4 {
+	font-size: 110%;
+}
+.modContact h3 {
+	font-size: 100%;
+}
+.news ul {
+	font-size: 100% !important;
+}
+table td p {
+	font-size: 100% !important;
+}
+table td ul {
+	font-size: 135% !important;
+}
+#ways-to-give h3 {
+	font-size: 120%;
+}
+.university-news h3 {
+	font-size: 100% !important;
+}
+#multimedia h2 {
+	font-size: 130%;
+}
+#multimedia h3 {
+	font-size: 100%;
+}
+#content table {
+	width: 90%;
+}
+#content table tr {
+	border: 1px solid rgb(153, 153, 153);
+}
+#content table td {
+	border: 1px solid rgb(153, 153, 153);
+}
+#content table tr {
+	border-color: currentColor;
+}
+#content table td {
+	border-color: currentColor; padding: 5px; vertical-align: top;
+}
+#content a:link {
+	text-decoration: underline;
+}
+#content ul {
+	line-height: 1.45em;
+}
+#modFeaturedContent ul {
+	line-height: 1.45em;
+}
+#listing ul {
+	line-height: 1.45em;
+}
+table td ul {
+	line-height: 1.45em;
+}
+#content li li {
+	line-height: 1.45em;
+}
+.modContact p {
+	line-height: 1.45em;
+}
+.modBulletinBoard ul {
+	line-height: 1.45em;
+}
+#upcoming-events ul {
+	line-height: 1.45em;
+}
+.modCallout ul {
+	line-height: 1.45em;
+}
+.calWidget ul {
+	line-height: 1.45em;
+}
+#content ul {
+	margin-top: 0px !important;
+}
+.modBulletinBoard ul {
+	margin-top: 0px !important;
+}
+#modFeaturedContent ul {
+	margin-top: 0px !important;
+}
+#listing ul {
+	margin-top: 0px !important;
+}
+#ways-to-give p {
+	margin-top: 0px !important;
+}
+#featured-news p {
+	margin-top: 0px !important;
+}
+.modCallout p {
+	margin-top: 0px !important;
+}
+.modCallout ul {
+	margin-top: 0px !important;
+}
+.timely p {
+	margin-top: 0px !important;
+}
+.timely ul {
+	margin-top: 0px !important;
+}
+body.dept-home h1 {
+	margin-top: 0px !important;
+}
+#modFeaturedContent p {
+	margin-top: 0px !important;
+}
+#modFeaturedContent ul {
+	margin-top: 0px !important;
+}
+body.acad-home #content h1 {
+	margin-top: 0px !important;
+}
+body.acad-home #content h1 {
+	margin-top: 0px !important;
+}
+#content .half ul {
+	margin-bottom: 0px !important;
+}
+#dual-profile h4 {
+	margin-bottom: 0px !important;
+}
+.modBulletinBoard h3 {
+	margin-bottom: 0px !important;
+}
+table td p {
+	margin-bottom: 0px !important;
+}
+#featured-news h3 {
+	margin-bottom: 0px !important;
+}
+.university-news h3 {
+	margin-bottom: 0px !important;
+}
+#multimedia h3 {
+	margin-bottom: 0px !important;
+}
+#upcoming-events h2 {
+	margin-bottom: 0px !important;
+}
+.modCallout h3 {
+	margin-bottom: 0px !important;
+}
+span.dept-of {
+	margin-bottom: 0px !important;
+}
+#modFeaturedContent h3 {
+	margin-bottom: 0px !important;
+}
+#content h4 {
+	margin-bottom: 5px !important;
+}
+.timely h3 {
+	margin-bottom: 5px !important;
+}
+#dual-profile {
+	margin-bottom: 15px;
+}
+.modSideButton {
+	margin-bottom: 15px;
+}
+.modCallout {
+	margin-bottom: 15px;
+}
+#ways-to-give h4 {
+	margin: 0px !important; padding: 0px !important;
+}
+.modContact p {
+	margin: 0px !important;
+}
+span.dept-of {
+	font-weight: bold;
+}
+span#dept-name {
+	font-weight: bold;
+}
+span.dept-of {
+	margin-right: 4px;
+}
+body.acad-home #breadcrumbs {
+	margin-bottom: 20px !important;
+}
+body.dept-page #content {
+	margin-top: 10px;
+}
+#content table th {
+	vertical-align: bottom !important;
+}
+#content label {
+	padding-top: 15px; display: table-cell;
+}
+#content fieldset {
+	margin-top: 30px;
+}
+#content fieldset label {
+	display: inline-block;
+}
+#content select {
+	margin-top: 15px;
+}
+#content .input {
+	background: rgb(255, 255, 255); border-width: 0px 0px 1px; border-style: none none solid; border-color: currentColor currentColor rgb(0, 0, 0); border-image: none;
+}
+#content select {
+	background: rgb(255, 255, 255); border-width: 0px 0px 1px; border-style: none none solid; border-color: currentColor currentColor rgb(0, 0, 0); border-image: none;
+}
+#content textarea {
+	background: rgb(255, 255, 255); border-width: 0px 0px 1px; border-style: none none solid; border-color: currentColor currentColor rgb(0, 0, 0); border-image: none;
+}
+#content .input {
+	width: 400px;
+}
+#content .long {
+	width: 400px;
+}
+#content select {
+	width: 400px;
+}
+#marquee .newslist ul {
+	top: 0px !important; height: auto !important;
+}
+#marquee ul li {
+	margin-left: 40px !important; display: list-item !important;
+}
+#rotatingbillboard {
+	margin: 0px !important; width: auto !important; height: auto !important; overflow: visible;
+}
+#rotatingbillboard ul li {
+	padding: 0px 0px 10px !important; width: auto !important; height: auto !important; overflow: visible !important; margin-left: 40px !important; float: none !important; display: list-item !important; position: relative !important;
+}
+#rotatingbillboard .video-left .content h1 {
+	margin: 0px; text-transform: none; line-height: 1.2em !important; letter-spacing: 0px; font-size: 1.3em; font-weight: bold;
+}
+#rotatingbillboard .video-right .content h1 {
+	margin: 0px; text-transform: none; line-height: 1.2em !important; letter-spacing: 0px; font-size: 1.3em; font-weight: bold;
+}
+#rotatingbillboard .photo .content p {
+	margin: 0px; text-transform: none; line-height: 1.2em !important; letter-spacing: 0px; font-size: 1.3em; font-weight: bold;
+}
+#rotatingbillboard .content p {
+	margin: 0px !important;
+}
+q {
+	margin: 0px 0px 15px 15px; padding: 0px !important; width: 160px; font-size: 1.7em; font-weight: bold; float: right; display: block;
+}
+q p {
+	margin: 0px 0px 3px !important; padding: 0px !important; font-size: 100% !important;
+}
+q::before {
+	margin: 0px !important; padding: 0px !important; line-height: 0.5em; font-size: 3em; content: open-quote;
+}
+q::after {
+	content: no-close-quote;
+}
+q cite {
+	text-align: right; line-height: 1.45em; padding-top: 0px; font-size: 80%; display: block;
+}
+#nav-primary {
+	display: none !important;
+}
+#give-to-wpi {
+	display: none !important;
+}
+#feature-area {
+	display: none !important;
+}
+#nav-aud {
+	display: none !important;
+}
+#nav-tools {
+	display: none !important;
+}
+#search-form {
+	display: none !important;
+}
+#small-feature1 {
+	display: none !important;
+}
+#small-feature2 {
+	display: none !important;
+}
+img {
+	display: none !important;
+}
+#news-and-events .rss {
+	display: none !important;
+}
+#modMultitab .rss {
+	display: none !important;
+}
+#news-only .rss {
+	display: none !important;
+}
+#events-only .rss {
+	display: none !important;
+}
+.news-events-link {
+	display: none !important;
+}
+#news-and-events .jScrollPaneTrack {
+	display: none !important;
+}
+#modMultitab .jScrollPaneTrack {
+	display: none !important;
+}
+#news-only .jScrollPaneTrack {
+	display: none !important;
+}
+#events-only .jScrollPaneTrack {
+	display: none !important;
+}
+#news-and-events .jScrollPaneDrag {
+	display: none !important;
+}
+#modMultitab .jScrollPaneDrag {
+	display: none !important;
+}
+#news-only .jScrollPaneDrag {
+	display: none !important;
+}
+#events-only .jScrollPaneDrag {
+	display: none !important;
+}
+#news-and-events .jScrollPaneDragTop {
+	display: none !important;
+}
+#modMultitab .jScrollPaneDragTop {
+	display: none !important;
+}
+#news-only .jScrollPaneDragTop {
+	display: none !important;
+}
+#events-only .jScrollPaneDragTop {
+	display: none !important;
+}
+#news-and-events .jScrollPaneDragBottom {
+	display: none !important;
+}
+#modMultitab .jScrollPaneDragBottom {
+	display: none !important;
+}
+#news-only .jScrollPaneDragBottom {
+	display: none !important;
+}
+#events-only .jScrollPaneDragBottom {
+	display: none !important;
+}
+#news-and-events a.jScrollArrowUp {
+	display: none !important;
+}
+#modMultitab a.jScrollArrowUp {
+	display: none !important;
+}
+#news-only a.jScrollArrowUp {
+	display: none !important;
+}
+#events-only a.jScrollArrowUp {
+	display: none !important;
+}
+#gallery a.jScrollArrowUp {
+	display: none !important;
+}
+#news-and-events a.jScrollArrowUp {
+	display: none !important;
+}
+#modMultitab a.jScrollArrowUp {
+	display: none !important;
+}
+#news-only a.jScrollArrowUp {
+	display: none !important;
+}
+#events-only a.jScrollArrowUp {
+	display: none !important;
+}
+#gallery a.jScrollArrowUp {
+	display: none !important;
+}
+#news-and-events a.jScrollArrowDown {
+	display: none !important;
+}
+#modMultitab a.jScrollArrowDown {
+	display: none !important;
+}
+#news-only a.jScrollArrowDown {
+	display: none !important;
+}
+#events-only a.jScrollArrowDown {
+	display: none !important;
+}
+#gallery a.jScrollArrowDown {
+	display: none !important;
+}
+#navigation h2 {
+	display: none !important;
+}
+#navigation h3 {
+	display: none !important;
+}
+#nav-secondary {
+	display: none !important;
+}
+#modRelated {
+	display: none !important;
+}
+#font-resize {
+	display: none !important;
+}
+#web2 {
+	display: none !important;
+}
+.modBulletinBoard .rss {
+	display: none !important;
+}
+.modBulletinBoard p {
+	display: none !important;
+}
+hr {
+	display: none !important;
+}
+#modFeaturedContent .captioned-content {
+	display: none !important;
+}
+.modFeaturedContent .captioned-content {
+	display: none !important;
+}
+#modProfile .fullText h4 {
+	display: none !important;
+}
+#modProfile .fullText a {
+	display: none !important;
+}
+.see-also {
+	display: none !important;
+}
+#wpi-topic {
+	display: none !important;
+}
+.modFacebookButton {
+	display: none !important;
+}
+#twitter {
+	display: none !important;
+}
+#make-gift {
+	display: none !important;
+}
+#ways-to-give a.button {
+	display: none !important;
+}
+.university-news .rss {
+	display: none !important;
+}
+.university-news .more {
+	display: none !important;
+}
+#multimedia .rss {
+	display: none !important;
+}
+#multimedia .more {
+	display: none !important;
+}
+#upcoming-events .rss {
+	display: none !important;
+}
+#upcoming-events .more {
+	display: none !important;
+}
+a.skip {
+	display: none !important;
+}
+#modRotatingProfile {
+	display: none !important;
+}
+#flickr {
+	display: none !important;
+}
+#content form select option {
+	display: none !important;
+}
+#content .form-end {
+	display: none !important;
+}
+#MessageModule {
+	display: none !important;
+}
+.photogallery {
+	display: none !important;
+}
+#apply-now {
+	display: none !important;
+}
+#modRotatingBlog {
+	display: none !important;
+}
+body.admissions .banner {
+	display: none !important;
+}
+body.admissions .calloutActions {
+	display: none !important;
+}
+body.admissions .scrollingCallouts {
+	display: none !important;
+}
+body.admissions .preFooter {
+	display: none !important;
+}
+body.admissions .applyToWPIBtn {
+	display: none !important;
+}
+body.admissions #quickLinks {
+	display: none !important;
+}
+#rotator-fade-4000-1 {
+	display: none !important;
+}
+.mediaPickerTabs {
+	display: none !important;
+}
+#marquee .largenews {
+	display: none !important;
+}
+#marquee .jcarousel-next {
+	display: none !important;
+}
+#marquee .jcarousel-prev {
+	display: none !important;
+}
+#marquee span.more {
+	display: none !important;
+}
+#youtube {
+	display: none !important;
+}
+body.business-page #breadcrumbs {
+	display: none !important;
+}
+#rotatingbillboard #player0 {
+	display: none !important;
+}
+#rotatingbillboard #player1 {
+	display: none !important;
+}
+#rotatingbillboard #player2 {
+	display: none !important;
+}
+#rotatingbillboard #player3 {
+	display: none !important;
+}
+#rotatingbillboard #player4 {
+	display: none !important;
+}
+#rotatingbillboard .controls {
+	display: none !important;
+}
+#social-media {
+	display: none !important;
+}
+.calWidgetTop span {
+	display: none !important;
+}
+.calWidgetTop a.rss {
+	display: none !important;
+}
+a img.sidebar-image {
+	display: none !important;
+}
+body.level4 .content-image img {
+	margin-bottom: 10px; margin-left: 15px; float: right; display: block !important;
+}
+.timely {
+	padding: 3px 20px 0px; border: 1px solid rgb(187, 187, 187); border-image: none; clear: both; margin-bottom: 20px;
+}
+body.level4 .timely img {
+	margin: 15px 10px 5px 0px; float: left; display: block !important;
+}
